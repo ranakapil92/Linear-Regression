@@ -5,9 +5,9 @@ folder.
 
 python3.5 LinearRegression.py
 
-
 2. Please install some modules:
-a. pandas - for arranging the data (For Matrices)
-b. matplotlib- for plotting the graph
-c. numpy - for matrix operations
-d. sklearn – for partitioning the data randomly.
+
+  a. pandas - for arranging the data (For Matrices)
+  b. matplotlib- for plotting the graph
+  c. numpy - for matrix operations
+  d. sklearn – for partitioning the data randomly.
